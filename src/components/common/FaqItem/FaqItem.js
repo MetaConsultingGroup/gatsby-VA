@@ -1,24 +1,4 @@
-import React from 'react';
-import Collapsible from 'react-collapsible';
-
-import { Wrapper } from './style';
-
-const FaqItem = ({ title, children }) => (
-  <Wrapper>
-    <Collapsible
-      className="faq"
-      openedClassName="faq active"
-      triggerClassName="faq-title"
-      triggerOpenedClassName="faq-title active"
-      triggerTagName="button"
-      contentInnerClassName="faq-content"
-      trigger={title}
-      transitionTime={300}
-      easing="ease-out"
-    >
-      {children}
-    </Collapsible>
-  </Wrapper>
-);
-
-export default FaqItem;
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/gritcult" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
