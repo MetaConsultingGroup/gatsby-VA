@@ -48,10 +48,10 @@ const About = () => (
         <Container>
           <Grid>
             <div>
-              <h2>Speed past the competition</h2>
+              <h2>The best talent for outreach.</h2>
               <p>
-                Gatsby.js builds the fastest possible website. Instead of
-                waiting to generate pages when requested, pre-build pages and
+                Outreach Talent provides the highest quality for outreach agencies. 
+                High quality management and training have created                 waiting to generate pages when requested, pre-build pages and
                 lift them into a global cloud of servers — ready to be delivered
                 instantly to your users wherever they are.
               </p>
