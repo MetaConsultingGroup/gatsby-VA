@@ -31,16 +31,16 @@ const Header = () => (
             </Art>
             <Text>
               <h1>
-                OUTREACH
+                The best talent 
                 <br />
-                TALENT
+                for your outreach. 
                 <br />
                 
               </h1>
               <br />
               <p>
                 <StyledExternalLink href="https://calendly.com/gritcult/60-min">
-                  Click here to level up your outreach! &nbsp;&#x2794;
+                  Click here to level up your agency now! &nbsp;&#x2794;
                 </StyledExternalLink>
               </p>
             </Text>
