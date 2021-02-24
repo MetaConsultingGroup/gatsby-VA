@@ -54,6 +54,13 @@ const About = () => (
                 High quality management and extensive training have created a ready to go  
                 workforce that will act as a force multiplier for your agency.
               </p>
+<br />
+              <p>
+                <StyledExternalLink href="https://calendly.com/gritcult/60-min">
+                  Click here to level up your agency now! &nbsp;&#x2794;
+                </StyledExternalLink>
+              </p>
+
             </div>
             <Art>
               <Img fluid={data.art_fast.childImageSharp.fluid} />
