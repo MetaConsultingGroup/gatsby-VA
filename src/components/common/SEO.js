@@ -6,7 +6,7 @@ const SEO_DATA = {
   title: 'OUTREACH TALENT',
   url: '',
   author: 'GRITCULT',
-  keywords: ['OUTREACH', 'COLD EMAILS', 'SEO'],
+  keywords: ['OUTREACH','OUTREACHTALENT','OUTREACH TALENT', 'COLD EMAILS', 'SEO'],
   img: '',
   twitterId: '@OUTREACHTALENT',
   facebookId: '',
